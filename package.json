@@ -1,6 +1,6 @@
 {
   "name": "multissh",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Run SSH commands against multiple hosts and neatly visualize the output.",
   "main": "dist/app/index.js",
   "scripts": {
