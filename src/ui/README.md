@@ -16,8 +16,8 @@ The base application scaffolding isn't even complete yet.
 
 ## Running MultiSSH
 
-There are currently no binaries provided for this project. This is something
-that will be implemented at a later time.
+There are currently no binaries provided for this project.
+This is something that will be implemented at a later time.
 
 For now, follow this procedure to launch the application shell:
 
@@ -45,6 +45,8 @@ For now, follow this procedure to launch the application shell:
 * `grunt serve`
 
 Please use Github pull requests and issues for this project.
+
+Please follow the [conventional-changelog conventions](https://github.com/ajoslin/conventional-changelog/blob/master/CONVENTIONS.md) for your commit messages.
 
 ## Supported Operating Systems
 
