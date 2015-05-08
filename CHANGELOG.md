@@ -1,3 +1,13 @@
+<a name"0.0.5"></a>
+### 0.0.5 (2015-05-08)
+
+
+#### Bug Fixes
+
+* Fix typo in package.json ([bc09379f](https://github.com/loginx/multissh/commit/bc09379f))
+* Add linux runner, remove windows runner, clean up osx runner. ([2f6e2324](https://github.com/loginx/multissh/commit/2f6e2324))
+
+
 <a name"0.0.4"></a>
 ### 0.0.4 (2015-05-07)
 
