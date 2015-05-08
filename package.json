@@ -5,8 +5,8 @@
   "main": "dist/app/index.js",
   "scripts": {
     "test": "grunt test",
-    "win": "node_modules\\electron-prebuilt\\dist\\electron .",
-    "osx": "node_modules/electron-prebuilt/dist/Electron.app/Contents/MacOS/Electron ."
+    "osx": "node_modules/.bin/electron .",
+    "linux": "node_modules/.bin/electron .",
   },
   "repository": {
     "type": "git",
