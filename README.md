@@ -24,7 +24,7 @@ For now, follow this procedure to launch the application shell:
 * Install a recent release of NodeJS or IO.js
 * Clone this repository.
 * run `npm install`
-* On windows, run `npm run-script win`
+* On linux, run `npm run-script linux`
 * On OSX, run `npm run-script osx`
 
 ## Development
